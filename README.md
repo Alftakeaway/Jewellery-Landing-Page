@@ -1,2 +1,2 @@
 # Jewellery-Landing-Page
-forked from User georgekimaru
+forked from https://github.com/georgekimaru
